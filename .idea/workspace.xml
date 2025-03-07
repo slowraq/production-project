@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="Create react component.tsx.child.0" />
+        <option value="Create react component.tsx.child.1" />
+        <option value="Create react component" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;slowraq&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/slowraq/production-project.git&quot;,
+    &quot;accountId&quot;: &quot;6ead81e2-77f9-4a0c-a13d-dda6e298bb3a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/redux/index.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/app/providers/StoreProvider/config/reducerManager.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/entities/Profile/model/slice/profileSlice.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/shared/ui/Input/Input.module.scss" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rtxGfghGLgVSqpXBlrIdqFJwU4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.report.html.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Button.Test render.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Button.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.classNames.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.classNames.with only first param.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.getCounter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/config/build/loaders&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/jest&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.lint:scss:fix.executor&quot;: &quot;Run&quot;,
+    &quot;npm.lint:ts.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start:dev:server.executor&quot;: &quot;Run&quot;,
+    &quot;npm.storybook.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/build/loaders" />
+      <recent name="$PROJECT_DIR$/src/shared/assets/icons" />
+      <recent name="$PROJECT_DIR$/src/shared/assets/tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/features/addCommentForm/model/services" />
+      <recent name="$PROJECT_DIR$/src/features/addCommentForm" />
+      <recent name="$PROJECT_DIR$/src/entities/Article/model/services/fetchArticleById" />
+      <recent name="$PROJECT_DIR$/src/entities/Article/ui" />
+      <recent name="$PROJECT_DIR$/src/entities/Article/ui/ArticleDetails" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/entities/Country/model/types/country.ts" />
+      <recent name="$PROJECT_DIR$/src/entities/Currency/model/types/currency.ts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.storybook">
+    <configuration name="getCounter" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/entites/Counter/model/selectors/getCounter/getCounter.test.ts" />
+      <test-names>
+        <test-name value="getCounter" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:scss:fix" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:scss:fix" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:ts" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:ts" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev:server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev:server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.lint:ts" />
+        <item itemvalue="npm.start:dev:server" />
+        <item itemvalue="Jest.getCounter" />
+        <item itemvalue="npm.lint:scss:fix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="" />
+      <created>1737392078080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737392078080</updated>
+      <workItem from="1737392079840" duration="784000" />
+      <workItem from="1737393329867" duration="1886000" />
+      <workItem from="1737395867980" duration="598000" />
+      <workItem from="1737397038233" duration="15776000" />
+      <workItem from="1737474923712" duration="700000" />
+      <workItem from="1737550634544" duration="10127000" />
+      <workItem from="1737570088424" duration="347000" />
+      <workItem from="1737570446712" duration="10685000" />
+      <workItem from="1737630722940" duration="5605000" />
+      <workItem from="1737649551617" duration="6661000" />
+      <workItem from="1737885017448" duration="99096000" />
+      <workItem from="1738343406614" duration="8751000" />
+      <workItem from="1738361920449" duration="26794000" />
+      <workItem from="1738691977046" duration="64875000" />
+      <workItem from="1738976984928" duration="22153000" />
+      <workItem from="1739458302768" duration="1114000" />
+      <workItem from="1739459569479" duration="41000" />
+      <workItem from="1739460421513" duration="21258000" />
+      <workItem from="1739813577545" duration="38808000" />
+      <workItem from="1739921735589" duration="93762000" />
+      <workItem from="1741307649643" duration="20000" />
+      <workItem from="1741307686990" duration="310000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix tests">
+      <option name="closed" value="true" />
+      <created>1737555572126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555572127</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add visual tool, fix screens">
+      <option name="closed" value="true" />
+      <created>1737557423559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557423559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add modal,portal,change header">
+      <option name="closed" value="true" />
+      <created>1737653353723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737653353723</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add modal,portal,change header">
+      <option name="closed" value="true" />
+      <created>1737653393374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737653393374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add modal,portal,change header">
+      <option name="closed" value="true" />
+      <created>1737653534490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737653534490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add modal,portal,change header">
+      <option name="closed" value="true" />
+      <created>1737653622650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737653622650</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add redux store,add entity">
+      <option name="closed" value="true" />
+      <created>1737894849422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737894849422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix theme for modal">
+      <option name="closed" value="true" />
+      <created>1737895754781</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737895754782</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add json-server">
+      <option name="closed" value="true" />
+      <created>1737904527472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737904527472</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add input, add login form ui">
+      <option name="closed" value="true" />
+      <created>1738010675252</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738010675252</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add login module">
+      <option name="closed" value="true" />
+      <created>1738234254823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738234254823</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add test for login module">
+      <option name="closed" value="true" />
+      <created>1738346037137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346037137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix loginSlice.test.ts">
+      <option name="closed" value="true" />
+      <created>1738346089644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346089644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add profile, optimiz render">
+      <option name="closed" value="true" />
+      <created>1738607890669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738607890669</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix typings, add profile, fix tests">
+      <option name="closed" value="true" />
+      <created>1738703611916</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738703611916</updated>
+    </task>
+    <task id="LOCAL-00016" summary="production">
+      <option name="closed" value="true" />
+      <created>1741306192638</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741306192638</updated>
+    </task>
+    <task id="LOCAL-00017" summary="production">
+      <option name="closed" value="true" />
+      <created>1741306417178</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741306417178</updated>
+    </task>
+    <task id="LOCAL-00018" summary="babelLoader">
+      <option name="closed" value="true" />
+      <created>1741307375768</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741307375769</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix">
+      <option name="closed" value="true" />
+      <created>1741307991945</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741307991945</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix tests" />
+    <MESSAGE value="add visual tool, fix screens" />
+    <MESSAGE value="add modal,portal,change header" />
+    <MESSAGE value="add redux store,add entity" />
+    <MESSAGE value="fix theme for modal" />
+    <MESSAGE value="add json-server" />
+    <MESSAGE value="add input, add login form ui" />
+    <MESSAGE value="add login module" />
+    <MESSAGE value="add async reducers" />
+    <MESSAGE value="add test for login module" />
+    <MESSAGE value="fix loginSlice.test.ts" />
+    <MESSAGE value="add profile, optimiz render" />
+    <MESSAGE value="fix typings, add profile" />
+    <MESSAGE value="fix typings, add profile, fix tests" />
+    <MESSAGE value="production" />
+    <MESSAGE value="babelLoader" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
