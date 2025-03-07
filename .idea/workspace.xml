@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="fix" />
+    <list default="true" id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,37 +64,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.report.html.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.Button.Test render.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.Button.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.classNames.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.classNames.with only first param.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.getCounter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/config/build/loaders&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/stylelint&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/jest&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.lint:scss:fix.executor&quot;: &quot;Run&quot;,
-    &quot;npm.lint:ts.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start:dev:server.executor&quot;: &quot;Run&quot;,
-    &quot;npm.storybook.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.report.html.executor": "Run",
+    "Jest.Button.Test render.executor": "Run",
+    "Jest.Button.executor": "Run",
+    "Jest.classNames.executor": "Run",
+    "Jest.classNames.with only first param.executor": "Run",
+    "Jest.getCounter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/albertkorolevsky/Desktop/ulbi/production_project/config/build/loaders",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "npm.lint:scss:fix.executor": "Run",
+    "npm.lint:ts.executor": "Run",
+    "npm.start:dev:server.executor": "Run",
+    "npm.storybook.executor": "Run",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "ts.external.directory.path": "/Users/albertkorolevsky/Desktop/ulbi/production_project/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/config/build/loaders" />
@@ -210,7 +212,7 @@
       <workItem from="1739813577545" duration="38808000" />
       <workItem from="1739921735589" duration="93762000" />
       <workItem from="1741307649643" duration="20000" />
-      <workItem from="1741307686990" duration="310000" />
+      <workItem from="1741307686990" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="fix tests">
       <option name="closed" value="true" />
