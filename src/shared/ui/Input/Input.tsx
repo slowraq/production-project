@@ -1,8 +1,7 @@
 import { classNames, Mods } from 'shared/lib/classNames/classNames';
-import React, {
-    InputHTMLAttributes, memo, useEffect, useRef, useState,
-} from 'react';
+import React, { InputHTMLAttributes, memo, useEffect, useRef, useState } from 'react';
 import cls from './Input.module.scss';
+import { Text, TextTheme } from 'shared/ui/Text/Text';
 
 type HTMLInputProps = Omit<InputHTMLAttributes<HTMLInputElement>, 'value' | 'onChange' | 'readOnly'>
 
@@ -12,6 +11,7 @@ interface InputProps extends HTMLInputProps {
     onChange?: (value: string) => void;
     autofocus?: boolean;
     readonly?: boolean;
+    validate?: string;
 }
 
 export const Input = memo((props: InputProps) => {
@@ -23,6 +23,7 @@ export const Input = memo((props: InputProps) => {
         placeholder,
         autofocus,
         readonly,
+        validate,
         ...otherProps
     } = props;
     const ref = useRef<HTMLInputElement>(null);
@@ -66,6 +67,7 @@ export const Input = memo((props: InputProps) => {
                     {`${placeholder}>`}
                 </div>
             )}
+            {validate && <Text text={validate} theme={TextTheme.ERROR} />}
             <div className={cls.caretWrapper}>
                 <input
                     ref={ref}
