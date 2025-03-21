@@ -1,6 +1,6 @@
 import { classNames } from 'shared/lib/classNames/classNames';
 import cls from './ArticleDetailsComments.module.scss';
-import { memo, useCallback } from 'react';
+import { memo, Suspense, useCallback } from 'react';
 import { Text, TextSize } from 'shared/ui/Text/Text';
 import { AddCommentForm } from 'features/addCommentForm';
 import { CommentList } from 'entities/Comment';
@@ -14,7 +14,7 @@ import { useAppDispatch } from 'shared/lib/hooks/useAppDispatch/useAppDispatch';
 
 interface ArticleDetailsComments {
     className?: string;
-    id: string;
+    id?: string;
 }
 
 export const ArticleDetailsComments = memo(({ className, id }: ArticleDetailsComments) => {
@@ -36,7 +36,9 @@ export const ArticleDetailsComments = memo(({ className, id }: ArticleDetailsCom
                 className={cls.commentTitle}
                 title={'Комментарии'}
             />
-            <AddCommentForm onSendComment={onSendComment} />
+            <Suspense fallback={null}>
+                <AddCommentForm onSendComment={onSendComment} />
+            </Suspense>
             <CommentList
                 isLoading={commentsIsLoading}
                 comments={comments}

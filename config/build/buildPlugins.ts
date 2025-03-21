@@ -5,10 +5,11 @@ import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer';
 import ReactRefreshWebpackPlugin from '@pmmmwh/react-refresh-webpack-plugin';
 import CopyPlugin from 'copy-webpack-plugin';
 import { BuildOptions } from './types/config';
+import ForkTsCheckerWebpackPlugin from 'fork-ts-checker-webpack-plugin';
 
 export function buildPlugins({
-    paths, isDev, apiUrl, project,
-}: BuildOptions): webpack.WebpackPluginInstance[] {
+                                 paths, isDev, apiUrl, project,
+                             }: BuildOptions): webpack.WebpackPluginInstance[] {
     const plugins = [
         new HtmlWebpackPlugin({
             template: paths.html,
@@ -27,6 +28,18 @@ export function buildPlugins({
             patterns: [
                 { from: paths.locales, to: paths.buildLocales },
             ],
+        }),
+        // new CircularDependencyPlugin({
+        //     exclude: /node_modules/,
+        //     failOnError: true,
+        // }),
+        new ForkTsCheckerWebpackPlugin({
+            typescript: {
+                diagnosticOptions: {
+                    semantic: true,
+                    syntactic: true,
+                },
+            },
         }),
     ];
 
