@@ -4,29 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="add babel for ts, add fork, ts checker, add custom babel plugin">
-      <change afterPath="$PROJECT_DIR$/src/shared/assets/icons/notification-20-20.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/ui/Popups/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/Popover/Popover.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/Popover/Popover.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/styles/const.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/styles/popup.module.scss" afterDir="false" />
+    <list default="true" id="3a87c2b7-a62f-46ed-8716-08bc1cf6c57d" name="Changes" comment="add popover,add notifications">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json-server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/json-server/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Country/ui/CountrySelect/CountrySelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Country/ui/CountrySelect/CountrySelect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/Currency/ui/CurrencySelect/CurrencySelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Currency/ui/CurrencySelect/CurrencySelect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/User/model/selectors/roleSelectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User/model/selectors/roleSelectors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/User/model/types/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User/model/types/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/Dropdown/Dropdown.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/Dropdown/Dropdown.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/Dropdown/Dropdown.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/Dropdown/Dropdown.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/Dropdown/Dropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/Dropdown/Dropdown.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/Icon/Icon.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Icon/Icon.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/Icon/Icon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Icon/Icon.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/ListBox/ListBox.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/ListBox/ListBox.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/ListBox/ListBox.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/ListBox/ListBox.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/ui/ListBox/ListBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Popups/ui/ListBox/ListBox.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/widgets/Navbar/ui/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/Navbar/ui/Navbar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/notificationButton/ui/NotificationButton/NotificationButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/notificationButton/ui/NotificationButton/NotificationButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/ui/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/ui/Modal/Modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/ui/Modal/Modal.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/widgets/Navbar/ui/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/Navbar/ui/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,11 +115,11 @@
       <recent name="$PROJECT_DIR$/config/build/loaders" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/shared/ui" />
       <recent name="$PROJECT_DIR$/src/entities/Notification/ui" />
       <recent name="$PROJECT_DIR$/src/shared/ui/Popups/ui" />
       <recent name="$PROJECT_DIR$/src/pages/AdminPanelPage/ui" />
       <recent name="$PROJECT_DIR$/src/features/addCommentForm/model/services" />
-      <recent name="$PROJECT_DIR$/src/features/addCommentForm" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/entities/Article/model/consts/articleConsts.ts" />
@@ -243,7 +230,7 @@
       <workItem from="1741307649643" duration="20000" />
       <workItem from="1741307686990" duration="718000" />
       <workItem from="1741785219268" duration="76634000" />
-      <workItem from="1742484459157" duration="49839000" />
+      <workItem from="1742484459157" duration="63285000" />
     </task>
     <task id="LOCAL-00001" summary="fix tests">
       <option name="closed" value="true" />
@@ -421,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742594330720</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add popover,add notifications">
+      <option name="closed" value="true" />
+      <created>1742936281270</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1742936281270</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,6 +444,19 @@
     <MESSAGE value="add privatte route with required roles" />
     <MESSAGE value="add private route with required roles" />
     <MESSAGE value="add babel for ts, add fork, ts checker, add custom babel plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="add babel for ts, add fork, ts checker, add custom babel plugin" />
+    <MESSAGE value="add popover,add notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="add popover,add notifications" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/widgets/Navbar/ui/Navbar.tsx</url>
+          <line>39</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
