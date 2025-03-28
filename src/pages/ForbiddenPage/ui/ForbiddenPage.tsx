@@ -1,4 +1,4 @@
-import { Page } from 'widgets/Page/Page';
+import { Page } from '@/widgets/Page/Page';
 
 interface ForbiddenPageProps {
     className?: string;

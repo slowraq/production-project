@@ -6,8 +6,8 @@ import {
     getArticlesPageIsLoading,
     getArticlesPageView,
 } from '../../model/selectors/articlesPageSelectors';
-import { ArticleList } from 'entities/Article';
-import { Text, TextAlign } from 'shared/ui/Text/Text';
+import { ArticleList } from '@/entities/Article';
+import { Text, TextAlign } from '@/shared/ui/Text/Text';
 
 interface ArticleInfiniteList {
     className?: string;
